@@ -1,0 +1,14 @@
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\bin\Debug\Koperasi.exe.config
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\bin\Debug\Koperasi.exe
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\bin\Debug\Koperasi.pdb
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\bin\Debug\Koperasi.xml
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.vbprojAssemblyReference.cache
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.Resources.resources
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.vbproj.GenerateResource.cache
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.vbproj.CoreCompileInputs.cache
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.exe
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.xml
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.pdb
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.dashboard.resources
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.new_member.resources
+C:\Users\Reka Alamsyah S\source\repos\Koperasi\Koperasi\obj\Debug\Koperasi.Simpanan.resources
